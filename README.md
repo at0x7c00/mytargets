@@ -9,6 +9,6 @@
 2. 读完全书之后写总结性博客文章
 
 ### 产出
-- 第一章： [思维导图](https://zhimap.com/medit/484e30c31cf04b60b6ef80903bc41ef0) 笔记
+- 第一章： [思维导图](https://zhimap.com/mmap/484e30c31cf04b60b6ef80903bc41ef0) 笔记
 - 第二章： [思维导图](https://zhimap.com/mmap/b38a013e664e46a88115ed60666eaa13) 笔记
 
