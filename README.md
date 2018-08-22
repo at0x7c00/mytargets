@@ -14,4 +14,5 @@
 - 第三章：
 - 第四章：
 - 第五章：链路层：链路、接入网和局域网 [[思维导图]] [笔记](https://www.cnblogs.com/huqiaoblog/p/9510182.html)
-
+- 第六章：无线网络和移动网络
+  * CDMA资料：[CDMA Signal Spreading](https://www.youtube.com/watch?v=XJ81CuujwYE) [Part I:CDMA](https://www.youtube.com/watch?v=vdbc9P3U-Xo)
